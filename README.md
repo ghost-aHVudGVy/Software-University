@@ -35,5 +35,26 @@ This repository documents my journey through lessons, notes, comments, and exerc
 ➡ [Containers and Cloud](#containers-and-cloud)  
 
 ---
+
+## 🛠️ **Projects**
+
+Below are some of the key projects I’ve developed throughout my learning journey:
+
+- **[Project 1: Project Name](#)**  
+  _Short description of the project and what it entails._  
+  Technologies used: Python, Django, PostgreSQL
+
+- **[Project 2: Project Name](#)**  
+  _Short description of the project and what it entails._  
+  Technologies used: HTML, CSS, JavaScript
+
+- **[Project 3: Project Name](#)**  
+  _Short description of the project and what it entails._  
+  Technologies used: Docker, Kubernetes, CI/CD
+
+Feel free to explore the projects, and check out the code in the respective directories.
+
+---
+
 ## Technology Stack:  
 [![My Skills](https://skillicons.dev/icons?i=python,django,postgresql,git,html,css,linux,windows&theme=light)](https://skillicons.dev)
