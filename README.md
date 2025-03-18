@@ -11,7 +11,7 @@ This repository documents my journey through lessons, notes, comments, and exerc
 ## 🚀 **Table of Contents**
 
 ### 💡 **Core Concepts**  
-➡ [Programming Basics](#programming-basics)  
+➡ [Programming Basics](Programming%20Basics/)  
 ➡ [Fundamentals](#fundamentals)  
 
 ### 🐍 **Python Advanced**  
